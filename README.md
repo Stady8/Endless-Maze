@@ -6,8 +6,6 @@ Final Project for Mobile App Development
 
 Mobile game made in unity with C#
 
-
-<br />
 <br />
 <br />
 Preview of game 
